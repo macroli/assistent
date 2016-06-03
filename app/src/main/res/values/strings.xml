@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Expedia Guide</string>
+    <string name="activity_maps">Guide Map</string>
+    <string name="attractions">Attractions</string>
+    <string name="main_search">Search</string>
+    <string name="main_hotel">Hotel</string>
+    <string name="main_takemefly">Takemefly</string>
+    <string name="main_me">Me</string>
+    <string name="more">More</string>
+</resources>
